@@ -75,6 +75,8 @@ li {
   padding: 20px;
   background-color: white;
   position: sticky;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
 }
 #topNav > li > a:hover {
   border: 1px solid;
